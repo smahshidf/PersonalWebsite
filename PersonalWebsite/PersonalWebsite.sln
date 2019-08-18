@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PW.Application", "PW.Application", "{AA29B948-A8B1-465A-98A5-77DD94A40FA9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PW.Domain", "PW.Domain", "{9385B09D-4F7E-46C9-8E3A-9BF3265D905E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PW.Infra.Data", "PW.Infra.Data", "{0F424231-A406-448C-A9F2-E392EBEB0372}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PW.Infra.IoC", "PW.Infra.IoC", "{5B20AE06-46A7-4BA6-B5C1-674DFBC3A961}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PW.UI.MVC", "PW.UI.MVC", "{F3CE747D-9870-4853-B761-CDA0F8B6D02D}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
